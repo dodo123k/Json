@@ -1,0 +1,57 @@
+{
+  "category":
+  [
+    {
+      "name": "street",
+      "photos": [
+        {
+          "src" :
+          {
+             "portrait" :  "https://drive.google.com/uc?export=download&id=1MUaJS_Kf--Y4QzPQdB5GSZvT1BlTJfgN"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=13YRW5_J4Txcid0zkMAi5ddNEv4vMhNMj"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=1aNWB92cqZuAWgWzV8nk_k66j0jlaNrQ5"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=1mSt-LmpO7wQUUj9T4rWp9yQ-TtKL6vmr"
+          }
+        }
+      ]
+    },
+    {
+      "name": "avatar",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=1eAqBM_Bx9eUv4gGayZpd089gBj1IZ-Qh"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=1io1k6F7UA_5hRKE1d6yOfncI_AxPb6UN"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://drive.google.com/uc?export=download&id=1AIdhBQPfktXVRe_048xLHxp8bT_UvM0n"
+          }
+        }
+        ]
+    }
+  ]
+}
