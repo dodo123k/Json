@@ -13,6 +13,12 @@
         {
           "src" :
           {
+             "portrait" :  "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/neon.png"
+          }
+        },
+        {
+          "src" :
+          {
             "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/wewe.png"
           }
         },
@@ -33,6 +39,47 @@
     {
       "name": "avatar",
       "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/spiderburger1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/women.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/night.png"
+          }
+        },
+        {
+          "src" :
+          {
+             "portrait" :  "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/badboy1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/panda1.png"
+          }
+        }
+        ]
+    },
+    {
+      "name": "animals",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/spiderburger1.png"
+          }
+        },
         {
           "src" :
           {
