@@ -2,41 +2,6 @@
   "category":
   [
     {
-      "name": "street",
-      "photos": [
-        {
-          "src" :
-          {
-             "portrait" :  "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/badboy1.png"
-          }
-        },
-        {
-          "src" :
-          {
-             "portrait" :  "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/neon.png"
-          }
-        },
-        {
-          "src" :
-          {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/wewe.png"
-          }
-        },
-        {
-          "src" :
-          {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/world_of_dark.png"
-          }
-        },
-        {
-          "src" :
-          {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/women2.png"
-          }
-        }
-      ]
-    },
-    {
       "name": "avatar",
       "photos": [
         {
@@ -72,42 +37,768 @@
         ]
     },
     {
-      "name": "animals",
+      "name": "Animals",
       "photos": [
         {
           "src" :
           {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/spiderburger1.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/Nonos.png"
           }
         },
         {
           "src" :
           {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/spiderburger1.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/Nonos1.png"
           }
         },
         {
           "src" :
           {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/women.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/WizardCat1.png"
           }
         },
         {
           "src" :
           {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/night.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/angrworld.png"
+          }
+        },
+            {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/angrywolf.png"
           }
         },
         {
           "src" :
           {
-             "portrait" :  "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/badboy1.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/cat1.png"
           }
         },
         {
           "src" :
           {
-            "portrait" : "https://raw.githubusercontent.com/dodo123k/jsonAireski/main/panda1.png"
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/cat2.png"
+          }
+        },
+              {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/cat3.png"
+          }
+        },
+              {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/cat4.png"
+          }
+        },
+              {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/eagle.png"
+          }
+        },
+              {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/eaglenon1.png"
+          }
+        },
+              {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/flamingo1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/flamingo2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/horse.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/horse1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/lion.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/neonCat.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/neonCat1.png"
+          }
+        },
+       {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/neonCat2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/neoneagle.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/nonos2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/panda1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/panda2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/panda3.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/rand1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/tiger.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/tiger1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/tiger2.png"
+          }
+        },
+            {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/tiger4.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/tiger5.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/wizardCat.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/wizardcat3.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/wolf.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/wolf1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/horse2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Animals/wolf2.png"
+          }
+        }
+        ]
+    },
+     {
+      "name": "Alien",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/alien%20copy.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/alien.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/alien1.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/alien2.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/alien5.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/aliennn.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/aliennn1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/aliennn2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/boy.png"
+          }
+        },
+       {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/boy1.png"
+          }
+        },
+       {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/boy2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Alien/boy3.png"
+          }
+        }
+        ]
+    },
+    {
+      "name": "Anime",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/Goku1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/Goku2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/goku.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/spider1.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/spider2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/spiderburger.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Anime/spiderburger1.png"
+          }
+        }
+        ]
+    },
+     {
+      "name": "Car",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car2.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car4%20copy.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car4.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car5.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car6.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/car7.png"
+          }
+        },
+       {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/neonCarr.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/neoncarr1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Car/neoncarr2.png"
+          }
+        }
+        ]
+    },
+      {
+      "name": "Nature",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/earth3.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/earth5.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/earth6.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/sea.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/sea1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/sea2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/sea4.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Nature/surfing.png"
+          }
+        }
+        ]
+    },
+    {
+      "name": "Sample",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/2.png.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/3.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/4.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/angrygirl.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/badboy.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/badboy1.png"
+          }
+        },
+             {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/badboy3.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/everestman.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/everestman1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/everestman3.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/flamingo.png"
+          }
+        },
+             {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/guitar.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/heart.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/heart1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/jacksparow.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/jacksparow1.png"
+          }
+        },
+            {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/monster.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/monster1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/monster2.png"
+          }
+        },
+             {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/neon%20-%20Copy.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/ran.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/ran1%20copy.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/ran1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/ran2.png"
+          }
+        },
+            {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/skuls.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/womensea1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/womensea2.png"
+          }
+        },
+             {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/womensea3.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/womessea.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/world_of_dark.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Sample/wow.png"
+          }
+        }
+        ]
+    },
+    {
+      "name": "Screen shoot",
+      "photos": [
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/earth.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/earth1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/panda4.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/pchakh.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/pchakh1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshot1.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshot2.png"
+          }
+        },
+         {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshot3.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshot4.png"
+          }
+        },
+           {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshot5.png"
+          }
+        },   
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screenshotwolf2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/screnshottwolf.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/we.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/we1.png"
+          }
+        },
+          {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/we2.png"
+          }
+        },
+        {
+          "src" :
+          {
+            "portrait" : "https://raw.githubusercontent.com/dodo123k/khorza/main/Screnshot/wewe.png"
           }
         }
         ]
